@@ -3,6 +3,7 @@ PEMBELAJARAN RENCANA KONTEN;
 - belajar javascript
   * belajar ES6
   * framework Javascript
+- struktur data dasar
 - belajar phpstrom
 - interview
 - vlogs
