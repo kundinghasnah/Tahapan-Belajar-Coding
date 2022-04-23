@@ -4,6 +4,7 @@ PEMBELAJARAN RENCANA KONTEN;
   * belajar ES6
   * framework Javascript
    ^ Veu
+   ^ React
 - struktur data dasar
 - belajar phpstrom
   ^ Laravel
