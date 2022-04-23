@@ -3,9 +3,11 @@ PEMBELAJARAN RENCANA KONTEN;
 - belajar javascript
   * belajar ES6
   * framework Javascript
-    ^ Angular
-    ^ React
+   ^ Veu
+   ^ React
+- struktur data dasar
 - belajar phpstrom
   ^ Laravel
 - interview
 - vlogs
+- Python
